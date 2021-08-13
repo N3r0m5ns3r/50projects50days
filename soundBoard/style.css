@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: rgb(161, 100, 223);
+    background-image: url('https://hdwallpaperim.com/wp-content/uploads/2017/08/23/458741-death_metal-death-Death_band-Chuck_Schuldiner-The_Sound_Of_Perseverance-748x421.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Poppins', sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -17,8 +19,12 @@ body {
     margin: 0;
   }
   
+  h1 {
+      text-align: center;
+      color: black;
+  }
   .btn {
-    background-color: rebeccapurple;
+    background-color: black;
     border-radius: 5px;
     border: none;
     color: #fff;
